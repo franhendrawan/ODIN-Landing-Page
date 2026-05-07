@@ -13,4 +13,4 @@ Pour over image by <a href="https://www.pexels.com/@53796359/">Alexey Demidov</a
 
 Mokapot image by <a href="https://www.pexels.com/@amine-1285347/">Amine</a> from pexels.com
 
-French Press image by <a href="https://www.pexels.com/@fernanda-neitzel-2155821056/">Fernanda Neitzel</a>from pexels.com
+French Press image by <a href="https://www.pexels.com/@fernanda-neitzel-2155821056/">Fernanda Neitzel</a> from pexels.com
