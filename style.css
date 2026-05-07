@@ -117,10 +117,38 @@ button {
     text-align: end;
     margin-top: 10px;
 }
+
 .action {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
+    margin: auto;    
+    margin-top: 50px;
+    margin-bottom: 50px;
+    gap: 300px;
+    background-color: #3882F6;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.action button {
+    border-color: #F9FAF8;
+    margin-right: 50px;
+}
+
+.action-txt {
+    font-size: 18px;
+    color: #F9FAF8;
+    margin-left: 50px;
+}
+
+.action-txt .call {
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.action-txt .sign {
+    margin-top: 0;
 }
 
 .footer {
